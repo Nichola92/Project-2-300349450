@@ -1,4 +1,9 @@
-/* Reference : https://codepen.io/Delano83/pen/XjYxZQ */
+/*  
+	Reference 1 : https://codepen.io/KennyGHanson/pen/xmGeqO
+	Reference 2 : https://codepen.io/Delano83/pen/XjYxZQ 
+	Reference 3 : https://codepen.io/gadjimagomedov/pen/KRawdL
+	
+*/
 
 var currentPage = 1;
 var contactsPerPage = 10;
